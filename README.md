@@ -13,3 +13,4 @@ Options:
 ```
 
 * [hello](hello/hello.pdf)
+* [text](text/text.pdf)

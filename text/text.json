@@ -1,0 +1,116 @@
+{
+  "$schema": "https://raw.githubusercontent.com/apple-x-co/rs-pdf/refs/heads/master/schema/schema.json",
+  "document": {
+    "title": "hello",
+    "width": 210.0,
+    "height": 297.0,
+    "font_path": "assets/fonts/NotoSansJP-VariableFont_wght.ttf",
+    "pages": [
+      {
+        "objects": [
+          {
+            "type": "text",
+            "text": "size:10",
+            "font_size": 10.0
+          },
+          {
+            "type": "text",
+            "text": "size:20",
+            "font_size": 20.0
+          },
+          {
+            "type": "text",
+            "text": "size:30",
+            "font_size": 30.0
+          },
+          {
+            "type": "text",
+            "text": "border_color",
+            "font_size": 40.0,
+            "style": {
+              "border_color": {
+                "red": 173,
+                "green": 255,
+                "blue": 47
+              }
+            }
+          },
+          {
+            "type": "text",
+            "text": "border_width",
+            "font_size": 40.0,
+            "style": {
+              "border_width": {
+                "width": 3
+              }
+            }
+          },
+          {
+            "type": "text",
+            "text": "border_style",
+            "font_size": 40.0,
+            "style": {
+              "border_style": {
+                "line_style": "dash",
+                "dash_1": 1
+              }
+            }
+          },
+          {
+            "type": "text",
+            "text": "text_fill_color",
+            "font_size": 40.0,
+            "style": {
+              "text_fill_color": {
+                "red": 173,
+                "green": 255,
+                "blue": 47
+              }
+            }
+          },
+          {
+            "type": "text",
+            "text": "text_style:stroke",
+            "font_size": 40.0,
+            "style": {
+              "text_style": {
+                "line_style": "stroke"
+              },
+              "text_outline_color": {
+                "red": 173,
+                "green": 255,
+                "blue": 47
+              },
+              "text_outline_style": {
+                "line_style": "solid"
+              }
+            }
+          },
+          {
+            "type": "text",
+            "text": "text_style:fill_stroke",
+            "font_size": 40.0,
+            "style": {
+              "text_style": {
+                "line_style": "fill_stroke"
+              },
+              "text_fill_color": {
+                "red": 50,
+                "green": 205,
+                "blue": 50
+              },
+              "text_outline_color": {
+                "red": 173,
+                "green": 255,
+                "blue": 47
+              },
+              "text_outline_style": {
+                "line_style": "solid"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
