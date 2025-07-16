@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/apple-x-co/rs-pdf/refs/heads/master/schema/schema.json",
+  "document": {
+    "title": "image",
+    "width": 210.0,
+    "height": 297.0,
+    "font_path": "assets/fonts/NotoSansCJKjp-Thin.ttf",
+    "pages": [
+      {
+        "objects": [
+          {
+            "type": "image",
+            "path": "assets/images/elePHPant.png"
+          }
+        ]
+      }
+    ]
+  }
+}

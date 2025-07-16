@@ -21,8 +21,8 @@ Options:
 ## Examples
 
 * 基本要素
-  * [テキスト](text/text.pdf)
-  * 画像
+  * [テキスト](basic_text/text.pdf)
+  * [画像](basic_image/image.pdf)
   * 矩形
   * 線
 * コンテナ要素
