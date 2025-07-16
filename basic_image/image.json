@@ -75,6 +75,38 @@
                 }
               }
             ]
+          },
+          {
+            "type": "objects",
+            "direction": "vertical",
+            "objects": [
+              {
+                "type": "object",
+                "object": {
+                  "type": "text",
+                  "text": "style:border_style",
+                  "font_size": 20
+                },
+                "style": {
+                  "space": {
+                    "top": 5,
+                    "right": 0,
+                    "bottom": 2,
+                    "left": 0
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "path": "assets/images/elePHPant.png",
+                "style": {
+                  "border_style": {
+                    "line_style": "dash",
+                    "dash_1": 5
+                  }
+                }
+              }
+            ]
           }
         ]
       }
