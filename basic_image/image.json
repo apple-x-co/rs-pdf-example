@@ -11,6 +11,70 @@
           {
             "type": "image",
             "path": "assets/images/elePHPant.png"
+          },
+          {
+            "type": "objects",
+            "direction": "vertical",
+            "objects": [
+              {
+                "type": "object",
+                "object": {
+                  "type": "text",
+                  "text": "style:border_color",
+                  "font_size": 20
+                },
+                "style": {
+                  "space": {
+                    "top": 5,
+                    "right": 0,
+                    "bottom": 2,
+                    "left": 0
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "path": "assets/images/elePHPant.png",
+                "style": {
+                  "border_color": {
+                    "red": 173,
+                    "green": 255,
+                    "blue": 47
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "objects",
+            "direction": "vertical",
+            "objects": [
+              {
+                "type": "object",
+                "object": {
+                  "type": "text",
+                  "text": "style:border_width",
+                  "font_size": 20
+                },
+                "style": {
+                  "space": {
+                    "top": 5,
+                    "right": 0,
+                    "bottom": 2,
+                    "left": 0
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "path": "assets/images/elePHPant.png",
+                "style": {
+                  "border_width": {
+                    "width": 5
+                  }
+                }
+              }
+            ]
           }
         ]
       }
