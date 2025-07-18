@@ -23,8 +23,8 @@ Options:
 * 基本要素
   * [テキスト](basic_text/text.pdf)
   * [画像](basic_image/image.pdf)
-  * [矩形](basic_rect/rect.pdf)
-  * 線
+  * [矩形](basic_rectangle/rectangle.pdf)
+  * [線](basic_line/line.pdf)
 * コンテナ要素
   * 通常のコンテナ
   * フレキシブルコンテナ

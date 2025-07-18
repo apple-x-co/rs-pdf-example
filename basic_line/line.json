@@ -1,0 +1,138 @@
+{
+  "$schema": "https://raw.githubusercontent.com/apple-x-co/rs-pdf/refs/heads/master/schema/schema.json",
+  "document": {
+    "title": "rect",
+    "width": 210.0,
+    "height": 297.0,
+    "font_path": "assets/fonts/NotoSansCJKjp-Thin.ttf",
+    "pages": [
+      {
+        "objects": [
+          {
+            "type": "objects",
+            "direction": "vertical",
+            "objects": [
+              {
+                "type": "object",
+                "object": {
+                  "type": "text",
+                  "text": "style:border_color",
+                  "font_size": 20
+                },
+                "style": {
+                  "space": {
+                    "top": 5,
+                    "right": 0,
+                    "bottom": 2,
+                    "left": 0
+                  }
+                }
+              },
+              {
+                "type": "line",
+                "frame": {
+                  "point": {
+                    "x": 0,
+                    "y": 12
+                  },
+                  "size": {
+                    "width": 297.0,
+                    "height": 1.0
+                  }
+                },
+                "style": {
+                  "border_color": {
+                    "red": 255,
+                    "green": 99,
+                    "blue": 71
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "objects",
+            "direction": "vertical",
+            "objects": [
+              {
+                "type": "object",
+                "object": {
+                  "type": "text",
+                  "text": "style:border_width",
+                  "font_size": 20
+                },
+                "style": {
+                  "space": {
+                    "top": 5,
+                    "right": 0,
+                    "bottom": 2,
+                    "left": 0
+                  }
+                }
+              },
+              {
+                "type": "line",
+                "frame": {
+                  "point": {
+                    "x": 0,
+                    "y": 12
+                  },
+                  "size": {
+                    "width": 297.0,
+                    "height": 1.0
+                  }
+                },
+                "style": {
+                  "border_width": {
+                    "width": 5
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "objects",
+            "direction": "vertical",
+            "objects": [
+              {
+                "type": "object",
+                "object": {
+                  "type": "text",
+                  "text": "style:border_style",
+                  "font_size": 20
+                },
+                "style": {
+                  "space": {
+                    "top": 5,
+                    "right": 0,
+                    "bottom": 2,
+                    "left": 0
+                  }
+                }
+              },
+              {
+                "type": "line",
+                "frame": {
+                  "point": {
+                    "x": 0,
+                    "y": 12
+                  },
+                  "size": {
+                    "width": 297.0,
+                    "height": 1.0
+                  }
+                },
+                "style": {
+                  "border_style": {
+                    "line_style": "dash",
+                    "dash_1": 5
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
