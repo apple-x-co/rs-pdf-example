@@ -9,4 +9,5 @@ cd "$(dirname "$0")" || exit
 
 # basic
 #./rs-pdf --input basic_text/text.json --output basic_text/text.pdf --debug --allow-override
-./rs-pdf --input basic_image/image.json --output basic_image/image.pdf --debug --allow-override
+#./rs-pdf --input basic_image/image.json --output basic_image/image.pdf --debug --allow-override
+./rs-pdf --input basic_rectangle/rectangle.json --output basic_rectangle/rectangle.pdf --debug --allow-override
