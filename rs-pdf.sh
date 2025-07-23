@@ -12,3 +12,6 @@ cd "$(dirname "$0")" || exit
 #./rs-pdf --input basic_image/image.json --output basic_image/image.pdf --debug --allow-override
 #./rs-pdf --input basic_rectangle/rectangle.json --output basic_rectangle/rectangle.pdf --debug --allow-override
 #./rs-pdf --input basic_line/line.json --output basic_line/line.pdf --debug --allow-override
+
+# container
+./rs-pdf --input container/container.json --output container/container.pdf --debug --allow-override

@@ -1,0 +1,63 @@
+{
+  "$schema": "https://raw.githubusercontent.com/apple-x-co/rs-pdf/refs/heads/master/schema/schema.json",
+  "document": {
+    "title": "hello",
+    "width": 210.0,
+    "height": 297.0,
+    "font_path": "assets/fonts/NotoSansCJKjp-Thin.ttf",
+    "pages": [
+      {
+        "objects": [
+          {
+            "type": "objects",
+            "direction": "horizontal",
+            "objects": [
+              {
+                "type": "text",
+                "text": "H",
+                "font_size": 20
+              },
+              {
+                "type": "text",
+                "text": "ORIZONTAL",
+                "font_size": 12
+              },
+              {
+                "type": "text",
+                "text": "TEXT",
+                "font_size": 12
+              }
+            ]
+          },
+          {
+            "type": "objects",
+            "direction": "vertical",
+            "objects": [
+              {
+                "type": "objects",
+                "direction": "horizontal",
+                "objects": [
+                  {
+                    "type": "text",
+                    "text": "V",
+                    "font_size": 20
+                  },
+                  {
+                    "type": "text",
+                    "text": "ERTICAL",
+                    "font_size": 12
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "TEXT",
+                "font_size": 12
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
