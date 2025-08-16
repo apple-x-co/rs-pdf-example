@@ -57,6 +57,18 @@
             ]
           }
         ]
+      },
+      {
+        "objects": [
+          {
+            "type": "object",
+            "object": {
+              "type": "text",
+              "text": "HELLO",
+              "font_size": 12
+            }
+          }
+        ]
       }
     ]
   }
