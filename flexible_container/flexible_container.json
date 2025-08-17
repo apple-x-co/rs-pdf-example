@@ -1,0 +1,133 @@
+{
+  "$schema": "https://raw.githubusercontent.com/apple-x-co/rs-pdf/refs/heads/master/schema/schema.json",
+  "document": {
+    "title": "hello",
+    "width": 210.0,
+    "height": 297.0,
+    "font_path": "assets/fonts/NotoSansCJKjp-Thin.ttf",
+    "pages": [
+      {
+        "objects": [
+          {
+            "type": "flexible",
+            "direction": "horizontal",
+            "objects": [
+              {
+                "type": "flexible_item",
+                "object": {
+                  "type": "text",
+                  "text": "Item 1",
+                  "font_size": 12
+                }
+              },
+              {
+                "type": "flexible_item",
+                "object": {
+                  "type": "text",
+                  "text": "Item 2",
+                  "font_size": 12
+                }
+              }
+            ]
+          },
+          {
+            "type": "flexible",
+            "direction": "horizontal",
+            "objects": [
+              {
+                "type": "flexible_item",
+                "object": {
+                  "type": "text",
+                  "text": "Item 1 (left)",
+                  "font_size": 12,
+                  "style": {
+                    "alignment": {
+                      "horizontal": "left"
+                    }
+                  }
+                }
+              },
+              {
+                "type": "flexible_item",
+                "object": {
+                  "type": "text",
+                  "text": "Item 2 (left)",
+                  "font_size": 12,
+                  "style": {
+                    "alignment": {
+                      "horizontal": "left"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "flexible",
+            "direction": "horizontal",
+            "objects": [
+              {
+                "type": "flexible_item",
+                "object": {
+                  "type": "text",
+                  "text": "Item 1 (right)",
+                  "font_size": 12,
+                  "style": {
+                    "alignment": {
+                      "horizontal": "right"
+                    }
+                  }
+                }
+              },
+              {
+                "type": "flexible_item",
+                "object": {
+                  "type": "text",
+                  "text": "Item 2 (right)",
+                  "font_size": 12,
+                  "style": {
+                    "alignment": {
+                      "horizontal": "right"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "flexible",
+            "direction": "horizontal",
+            "objects": [
+              {
+                "type": "flexible_item",
+                "object": {
+                  "type": "text",
+                  "text": "Item 1 (center)",
+                  "font_size": 12,
+                  "style": {
+                    "alignment": {
+                      "horizontal": "center"
+                    }
+                  }
+                }
+              },
+              {
+                "type": "flexible_item",
+                "object": {
+                  "type": "text",
+                  "text": "Item 2 (center)",
+                  "font_size": 12,
+                  "style": {
+                    "alignment": {
+                      "horizontal": "center"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
