@@ -4,7 +4,7 @@ Rust で PDF 生成を行う [rs-pdf](https://github.com/apple-x-co/rs-pdf) の�
 
 ## バージョン
 
-**Current Version:** `0.1.0`
+**Current Version:** `0.2.1`
 
 ## 使用方法
 
@@ -60,7 +60,7 @@ PDF生成の基本的な構成要素のサンプルです：
 
 実際のビジネス文書のサンプル：
 
-- **納品書** - 実際の業務で使用できる納品書テンプレート
+- **[納品書](delivery_note/delivery_note.pdf)** - 実際の業務で使用できる納品書テンプレート
 
 ## フォント
 
