@@ -7,6 +7,7 @@
     "font_path": "assets/fonts/NotoSansCJKjp-Thin.ttf",
     "pages": [
       {
+        "type": "static",
         "objects": [
           {
             "type": "text",
