@@ -5,6 +5,9 @@
     "width": 210.0,
     "height": 297.0,
     "font_path": "assets/fonts/NotoSansCJKjp-Thin.ttf",
+    "page_number": {
+      "font_size": 10.0
+    },
     "pages": [
       {
         "type": "dynamic",
