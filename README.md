@@ -60,7 +60,9 @@ PDF生成の基本的な構成要素のサンプルです：
 
 実際のビジネス文書のサンプル：
 
-- **[納品書](delivery_note/delivery_note.pdf)** - 実際の業務で使用できる納品書テンプレート
+- **[納品書1](delivery_note/delivery_note_1.pdf)** - 実際の業務で使用できる納品書テンプレート
+- **[納品書2](delivery_note/delivery_note_2.pdf)** - 実際の業務で使用できる納品書テンプレート
+  - 2ページ以降の共通部分を変更
 
 ## フォント
 

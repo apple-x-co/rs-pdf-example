@@ -18,4 +18,5 @@ cd "$(dirname "$0")" || exit
 #./rs-pdf --input flexible_container/flexible_container.json --output flexible_container/flexible_container.pdf --debug --allow-override
 
 # delivery note
-./rs-pdf --input delivery_note/delivery_note.json --output delivery_note/delivery_note.pdf --allow-override
+./rs-pdf --input delivery_note/delivery_note_1.json --output delivery_note/delivery_note_1.pdf --allow-override
+./rs-pdf --input delivery_note/delivery_note_2.json --output delivery_note/delivery_note_2.pdf --allow-override
