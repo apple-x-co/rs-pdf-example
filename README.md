@@ -4,7 +4,7 @@ Rust で PDF 生成を行う [rs-pdf](https://github.com/apple-x-co/rs-pdf) の�
 
 ## バージョン
 
-**Current Version:** `0.2.1`
+**Current Version:** `0.2.3`
 
 ## 使用方法
 
